@@ -76,7 +76,20 @@ All available episodes processed!
 
 ---
 
+## Disclaimer
+FOR EDUCATIONAL AND INFORMATIONAL PURPOSES ONLY.
+
+The information provided in or through this website is for educational and informational purposes only and solely as a self-help tool for your own use.
+
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. YOU MAY USE THIS SOFTWARE AT YOUR OWN RISK. THE USE IS COMPLETE RESPONSIBILITY OF THE END-USER. THE DEVELOPERS ASSUME NO LIABILITY AND ARE NOT RESPONSIBLE FOR ANY MISUSE OR DAMAGE CAUSED BY THIS PROGRAM.
+
+---
+
+## License
+This program is released under MIT License.
+
+---
+
 ## Notes
 - The URL must contain the episode format `SxxExx`.
 - Some websites may block headless Chrome; if so, remove `--headless=new` from the script.
-- DISCLAIMER this is only for educational purposes
