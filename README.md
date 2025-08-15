@@ -1,4 +1,4 @@
-# Episode Downloader
+# Series downloader from kukajto or other sites that uses .m3u8 files to stream the video
 
 A Python script that downloads video episodes from `.m3u8` streams found in webpage network traffic using Selenium Wire and `ffmpeg`.
 
@@ -79,4 +79,4 @@ All available episodes processed!
 ## Notes
 - The URL must contain the episode format `SxxExx`.
 - Some websites may block headless Chrome; if so, remove `--headless=new` from the script.
-- This script is for **personal use only** — download only content you have rights to.
+- DISCLAIMER this is only for educational purposes
